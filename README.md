@@ -4,3 +4,7 @@ Kaggle의 신용카드 사기 데이터 분석<br>
 이다.<br><br>
 참고 링크 : http://www.bloter.net/archives/351562 , https://www.kaggle.com/terrifictitan12/fraud-detection-data-processing-94-accuracy<br>
 kaggle 링크 : https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+### Dacon 신용카드 사용자 연체 예측 프로젝트
+Dacon 데이터로 공유 소스를 따라하며 프로젝트를 이해하고 확장시켜본다. <br><br>
+참고 링크 : https://dacon.io/competitions/official/235713/overview/schedule
